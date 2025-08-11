@@ -4,9 +4,10 @@
     
     <title>Document</title>
     <link rel="shortcut icon" href="./download.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <center><h1>STORIES FOR THE KIDS</h1></center>
+    <center><h1 class="heading1">STORIES FOR THE KIDS</h1></center>
     <h2>The Ugly Duckling</h2>
     <p><b>The Ugly Duckling:</b> It was a warm summer morning. The sun was shining, and a mother duck sat on her nest near the pond. She had been waiting for her eggs to hatch.
 <br>One by one, the eggs began to crack. “Peep! Peep!” came the little ducklings, yellow and soft. Mother duck smiled. But the biggest egg didn’t hatch. It sat still and quiet.</p>
@@ -50,5 +51,6 @@
 <br>Moral: People may not understand you today. But that doesn’t mean you are less. Sometimes, we just need time to become who we truly are. Be patient with yourself. You are growing, even when it doesn’t show.
 
 </p>
+<P>YOU WANT MORE STORIES <a href="https://ofhsoupkitchen.org/short-stories-with-morals">click here</a></P>
 </body>
 </html>
